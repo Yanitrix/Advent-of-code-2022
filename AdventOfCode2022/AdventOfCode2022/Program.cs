@@ -5,6 +5,6 @@ public static class Program
     public static void Main(string[] args)
     {
         // Console.WriteLine(new DayOne().TaskOne());
-        Console.WriteLine(new DayOne().TaskTwo());
+        Console.WriteLine(new DayThree().TaskTwo());
     }
 }
